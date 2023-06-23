@@ -6,6 +6,7 @@ import java.util.Scanner;
  *
  * @author Maskeen Singh
  */
+//committed from github 
 public class BlackJackGame {
 
    
